@@ -1,0 +1,48 @@
+﻿{
+    "game_dir":  "C:\\THE HELL4 Mod\\TH4_Workshop\\TH4_dev",
+    "workshop_dir":  "C:\\THE HELL4 Mod\\TH4_Workshop",
+    "launcher_script":  "C:\\THE HELL4 Mod\\TH4_Workshop\\scripts\\mp_session.ps1",
+    "real_game_dir":  "C:\\THE HELL4 Mod\\TH4_v0.773",
+    "bots":  1,
+    "addr":  "127.0.0.1",
+    "host":  "slot1",
+    "game_name":  "TH4bots",
+    "save_dirs":  [
+                      [
+                          "Christopher\u0027s",
+                          "C:\\THE HELL4 Mod\\TH4_Workshop\\TH4_dev\\saves\\slot1"
+                      ],
+                      [
+                          "Pres",
+                          "C:\\THE HELL4 Mod\\TH4_Workshop\\TH4_dev\\saves\\slot2"
+                      ],
+                      [
+                          "Summoner",
+                          "C:\\THE HELL4 Mod\\TH4_Workshop\\TH4_dev\\saves\\slot3"
+                      ],
+                      [
+                          "Dev",
+                          "C:\\THE HELL4 Mod\\TH4_Workshop\\TH4_dev\\saves"
+                      ],
+                      [
+                          "Dev",
+                          "C:\\THE HELL4 Mod\\TH4_Workshop\\TH4_dev"
+                      ],
+                      [
+                          "Backups",
+                          "C:\\THE HELL4 Mod\\TH4_Workshop\\TH4_dev\\saves\\backup"
+                      ],
+                      [
+                          "Real game (read-only)",
+                          "C:\\THE HELL4 Mod\\TH4_v0.773"
+                      ]
+                  ],
+    "solo_group":  "Christopher\u0027s",
+    "seat_saves":  {
+                       "1":  "",
+                       "2":  "",
+                       "3":  "",
+                       "4":  ""
+                   },
+    "auto_host":  false
+}

@@ -218,3 +218,28 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- CheeseStickTrainer local ---
+.idea/
+.venv/
+venv/
+logs/
+builds/
+dist/
+*.bak
+*.bak*
+*.py.*.bak
+backup/
+backups/
+*.sv
+*.msv
+*.CivBeyondSwordSave
+*.db
+*.sqlite
+*.sqlite3
+.env
+*.key
+*.pem
+secrets*
+cheesestick_paths.json
+main_old.py
